@@ -4,7 +4,7 @@
 bikeshare.py
 
 ### Description
-the project is about the bikeshare data and aswer questions about these 
+the project is about the bikeshare data and aswer questions about these. it ask the user some interaktiv questions.
 
 ### Files used
 chicago.csv

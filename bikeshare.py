@@ -160,6 +160,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 def display_data(df):
+    # show five lines of raw data 
     choice=input(' do you want to see raw data? yes/no?').lower()
     if choice=='yes' or choice=='y' or choice=='yus':
        choice=True
@@ -169,6 +170,7 @@ def display_data(df):
        print('not vaild choice. Try again')
        display_data(df)
        return 
+    # you can decide to see more raw data 
     if choice:
           while 1:
             for i in range(5):

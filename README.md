@@ -1,5 +1,6 @@
 ### Date created
 20.08.2020 and 2 years ago 
+
 ### Project Title
 bikeshare.py
 
@@ -13,4 +14,7 @@ washington.csv
 
 ### Credits
 https://www.motivateco.com/
+udacity.com
+
+
 

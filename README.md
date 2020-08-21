@@ -1,5 +1,4 @@
 ### Date created
-Include the date you created this project and README file.
 20.08.2020 and 2 years ago 
 ### Project Title
 bikeshare.py

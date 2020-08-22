@@ -17,7 +17,7 @@ Data was received from:
 - https://www.motivateco.com/
 
 Course by:
-- udacity.com
+- https://www.udacity.com
 
 
 

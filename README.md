@@ -1,20 +1,23 @@
 ### Date created
-20.08.2020 and 2 years ago 
+20.08.2020 
 
 ### Project Title
-bikeshare.py
+Bikeshare Project
 
 ### Description
-the project is about the bikeshare data and aswer questions about these. it ask the user some interaktiv questions.
+The project is about the bikeshare data and aswer questions about these. It asks the user some interactive questions about the data.
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-https://www.motivateco.com/
-udacity.com
+Data was received from:
+- https://www.motivateco.com/
+
+Course by:
+- udacity.com
 
 
 
